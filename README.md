@@ -27,8 +27,8 @@ The algorithm is as follows:
     - Go to **step 2**.
 4. The optimal policy can be constructed by taking the **argmax** of the action-value function `Q(s, a)` over all actions `a`.
 5. Return the optimal policy and the optimal value function.
-### Name: Thanjiyappan k
-### Register Number:212222240108
+### Name: SHYAM S
+### Register Number: 212223240156
 ```
 # Creating the Frozen Lake environment
 envdesc = ['FFSF','FHFF','HFFF','FFGF']
