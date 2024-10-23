@@ -56,14 +56,13 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 
-
-![image](https://github.com/user-attachments/assets/0381834f-1867-4c87-8ada-2b256146461b)
+![image](https://github.com/user-attachments/assets/c50dfb3a-004f-4f51-a7be-517ca9bcfa2c)
 
 
 ![image](https://github.com/user-attachments/assets/6185751e-04f0-467a-9148-adde9743b2b7)
 
 
-![image](https://github.com/user-attachments/assets/efbf4cb0-840f-48fa-8f51-3733b8459baa)
+![image](https://github.com/user-attachments/assets/0a4fcb51-b0b5-4e8e-a9c8-2cc89bb49f4e)
 
 
 ## RESULT:
